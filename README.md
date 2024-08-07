@@ -7,7 +7,7 @@
 
 <details>
   <summary>
-      <h3>About me (Click to expand)</h3>
+      <h3> About me (Click to expand)</h3>
   </summary>
 
   ```PHP
