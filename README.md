@@ -12,21 +12,21 @@
 
   ```PHP
     @php
-    $introduction = [
-        "name" => "Lutreze Hue Jacinto",
-        "current_year" => "4th-year",
-        "course" => "Information Technology",
-        "role" => "Student Developer",
-        "skills" => ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
-        "frameworks_i_used" => ["Tailwind", "Laravel"],
-        "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
-        "future_learning_goals" => "MERN stack"
-    ];
-    
-    $skills_list = array_map(fn($skill) => $skill === "CSS" && in_array("Tailwind", $introduction['frameworks_i_used']) ?
-    "$skill (including Tailwind)" : $skill, $introduction['skills']);
-    
-    $formatList = fn($list) => count($list) > 1 ? implode(', ', array_slice($list, 0, -1)) . ' and ' . end($list) : $list[0];
+        $introduction = [
+            "name" => "Lutreze Hue Jacinto",
+            "current_year" => "4th-year",
+            "course" => "Information Technology",
+            "role" => "Student Developer",
+            "skills" => ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
+            "frameworks_i_used" => ["Tailwind", "Laravel"],
+            "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
+            "future_learning_goals" => "MERN stack"
+        ];
+        
+        $skills_list = array_map(fn($skill) => $skill === "CSS" && in_array("Tailwind", $introduction['frameworks_i_used']) ?
+        "$skill (including Tailwind)" : $skill, $introduction['skills']);
+        
+        $formatList = fn($list) => count($list) > 1 ? implode(', ', array_slice($list, 0, -1)) . ' and ' . end($list) : $list[0];
     @endphp
     
     <div>
