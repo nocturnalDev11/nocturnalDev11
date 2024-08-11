@@ -30,24 +30,21 @@
             "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
             "future_learning_goals" => "MERN stack"
         ];
-        
-        $skills_list = array_map(fn($skill) => $skill === "CSS" && in_array("Tailwind", $introduction['frameworks_i_used']) ?
-        "$skill (including Tailwind)" : $skill, $introduction['skills']);
-        
-        $formatList = fn($list) => count($list) > 1 ? implode(', ', array_slice($list, 0, -1)) . ' and ' . end($list) : $list[0];
+    
+        $skills_list = array_map(fn($skill) => $skill === "CSS" ? "$skill (including Tailwind)" : $skill, $introduction['skills']);
     @endphp
     
     <div>
         <p>
             Hello! My name is {{ $introduction['name'] }}. I'm a {{ $introduction['current_year'] }} 
             {{ $introduction['course'] }} student and a self-taught web developer with experience in PHP 
-            frameworks (including {{ $formatList($introduction['frameworks_i_used']) }}).
-            I'm constantly learning and expanding my skillset, which currently includes {{ $formatList($skills_list) }}.
+            frameworks (including Laravel).
+            I'm constantly learning and expanding my skillset, which currently includes {{ implode(', ', $skills_list) }}.
         </p>
         
         <p>
             In addition to web development, I'm passionate about design and enjoy using tools like 
-            {{ $formatList($introduction['software_skills']) }}. I'm also eager to learn the 
+            {{ implode(', ', $introduction['software_skills']) }}. I'm also eager to learn the 
             {{ $introduction['future_learning_goals'] }} and delve into it in the near future.
         </p>
     </div>
