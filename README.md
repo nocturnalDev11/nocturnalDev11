@@ -54,69 +54,69 @@
 ### Languages, Frameworks, Tools and IDE's
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" title="CSS"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" title="Flutter" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" title="VS Code" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo" title="Visual Studio" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" title="Bash" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="ubuntu logo" title="Ubuntu" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="photoshop logo" title="Photoshop" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
-  <img width="10" />
+    <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" title="CSS"/>
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript"/>
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" title="Flutter" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" title="VS Code" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo" title="Visual Studio" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" title="Bash" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="ubuntu logo" title="Ubuntu" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=ps" height="45" alt="photoshop logo" title="Photoshop" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
+    <img width="10" />
 </div>
 
 ### GitHub Stats 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=tokyonight" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=tokyonight" width="100%" height="auto" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=tokyonight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=tokyonight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
