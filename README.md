@@ -14,41 +14,42 @@
 </div>
 
 <details>
-  <summary>
-      <h3> About me (Click to expand)</h3>
-  </summary>
+    <summary>
+        <h3> About me (Click to expand)</h3>
+    </summary>
 
-  ```PHP
-    @php
-        $introduction = [
-            "name" => "Lutreze Hue Jacinto",
-            "current_year" => "4th-year",
-            "course" => "Information Technology",
-            "role" => "Student Developer",
-            "skills" => ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
-            "frameworks_i_used" => ["Tailwind", "Laravel"],
-            "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
-            "future_learning_goals" => "MERN stack"
-        ];
+```PHP
+@php
+    $introduction = [
+        "name" => "Lutreze Hue Jacinto",
+        "current_year" => "4th-year",
+        "course" => "Information Technology",
+        "role" => "Student Developer",
+        "skills" => ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
+        "frameworks_i_used" => ["Tailwind", "Laravel"],
+        "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
+        "future_learning_goals" => "MERN stack"
+    ];
+
+    $skills_list = array_map(fn($skill) => $skill === "CSS" ? "$skill (including Tailwind)" : $skill, $introduction['skills']);
+    $frameworks_list = implode(', ', $introduction['frameworks_i_used']);
+@endphp
+
+<div>
+    <p>
+        Hello! My name is {{ $introduction['name'] }}. I'm a {{ $introduction['current_year'] }} 
+        {{ $introduction['course'] }} student and a self-taught web developer with experience in PHP 
+        frameworks, including {{ in_array('Laravel', $introduction['frameworks_i_used']) ? 'Laravel' : 'other frameworks' }}.
+        I'm constantly learning and expanding my skillset, which currently includes {{ implode(', ', $skills_list) }}.
+    </p>
     
-        $skills_list = array_map(fn($skill) => $skill === "CSS" ? "$skill (including Tailwind)" : $skill, $introduction['skills']);
-    @endphp
-    
-    <div>
-        <p>
-            Hello! My name is {{ $introduction['name'] }}. I'm a {{ $introduction['current_year'] }} 
-            {{ $introduction['course'] }} student and a self-taught web developer with experience in PHP 
-            frameworks (including Laravel).
-            I'm constantly learning and expanding my skillset, which currently includes {{ implode(', ', $skills_list) }}.
-        </p>
-        
-        <p>
-            In addition to web development, I'm passionate about design and enjoy using tools like 
-            {{ implode(', ', $introduction['software_skills']) }}. I'm also eager to learn the 
-            {{ $introduction['future_learning_goals'] }} and delve into it in the near future.
-        </p>
-    </div>
-````
+    <p>
+        In addition to web development, I'm passionate about design and enjoy using tools like 
+        {{ implode(', ', $introduction['software_skills']) }}. I'm also eager to learn the 
+        {{ $introduction['future_learning_goals'] }} and delve into it in the near future.
+    </p>
+</div>
+```
 </details>
 
 ### Languages, Frameworks, Tools and IDE's
@@ -108,15 +109,15 @@
 
 ### GitHub Stats 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=tokyonight" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=material_palenight" width="100%" height="auto" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=material_palenight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=material_palenight" width="49%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=tokyonight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=material_palenight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=material_palenight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
