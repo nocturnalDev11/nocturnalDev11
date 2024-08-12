@@ -51,60 +51,59 @@
 ````
 </details>
 
-### Programming Languages
+### Languages, Frameworks, Tools and IDE's
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo" title="Dart" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
-  <img width="12" />
-</div>
-
-### Tools and Technologies
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" title="Laravel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind Css" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="JQuery" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="Vite" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" title="Flutter" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo" title="npm" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" title="Android Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" title="Ubuntu" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" title="Powershell" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" title="Photoshop" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="Figma" />
-  <img width="12" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo" title="HTML" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" title="CSS"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" title="Flutter" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" title="VS Code" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo" title="Visual Studio" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" title="Bash" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="ubuntu logo" title="Ubuntu" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="photoshop logo" title="Photoshop" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
+  <img width="10" />
 </div>
 
 ### GitHub Stats 
