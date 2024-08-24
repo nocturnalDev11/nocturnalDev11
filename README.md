@@ -73,6 +73,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo" title="Vue" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
@@ -84,6 +86,12 @@
     <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
+    <img width="10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" height="45" alt="livewire logo" title="Livewire"/>
+    <img width="10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" height="45" alt="wsl logo" title="WSL"/>
+    <img width="10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=lightroom" height="45" alt="lightroom logo" title="Lightroom"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo" title="VS Code" />
     <img width="10" />
