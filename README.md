@@ -117,15 +117,15 @@
 
 ### GitHub Stats 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=nightowl" width="100%" height="auto" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nocturnalDev11&theme=tokyonight" width="100%" height="auto" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=nightowl" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=nightowl" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=nightowl" width="49%" height="auto" style="display: inline;" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=nightowl&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nocturnalDev11&theme=tokyonight" width="49%" height="auto" style="display: inline;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=tokyonight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
 <div align="center">
