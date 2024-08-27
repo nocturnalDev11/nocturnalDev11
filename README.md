@@ -69,15 +69,19 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
-    <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=composer" height="45" alt="composer logo" title="Composer" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sanctum" height="45" alt="sanctum logo" title="Sanctum" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo" title="Vue" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
+    <img width="10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" height="45" alt="livewire logo" title="Livewire"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
     <img width="10" />
@@ -88,8 +92,6 @@
     <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
-    <img width="10" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" height="45" alt="livewire logo" title="Livewire"/>
     <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" height="45" alt="wsl logo" title="WSL"/>
     <img width="10" />
