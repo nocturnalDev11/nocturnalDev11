@@ -71,6 +71,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
     <img width="10" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=composer" height="45" alt="composer logo" title="Composer" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo" title="Vue" />
