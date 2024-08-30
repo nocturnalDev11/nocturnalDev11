@@ -61,11 +61,17 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript"/>
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" title="C"/>
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=gradle" height="45" alt="gradle logo" title="Gradle" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
     <img width="10" />
@@ -84,6 +90,8 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" height="45" alt="livewire logo" title="Livewire"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo" title="JQuery" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="Postman" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
     <img width="10" />
