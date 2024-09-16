@@ -79,7 +79,7 @@
     <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=sanctum" height="45" alt="sanctum logo" title="Sanctum" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo" title="Vue" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" height="45" alt="angular logo" title="Angular"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
     <img width="10" />
