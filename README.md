@@ -65,6 +65,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo" title="TypeScript" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
