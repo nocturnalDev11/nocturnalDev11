@@ -1,6 +1,6 @@
 <div align="left">
     <a href="https://www.facebook.com/nocturnalDev11"><img src="https://img.shields.io/badge/-nocturnalDev11-blue?style=flat&logo=facebook&logoColor=white" alt="nocturnalDev11's Facebook link" /></a>
-    <a href="https://www.instagram.com/lutreze_jacinto"><img src="https://img.shields.io/badge/lutreze_jacinto-E4405F?style=flat&logo=instagram&logoColor=white" alt="lutreze_jacinto's Instagram link" /></a>
+    <a href="https://www.instagram.com/lutreze_jacinto.exe"><img src="https://img.shields.io/badge/lutreze_jacinto.exe-E4405F?style=flat&logo=instagram&logoColor=white" alt="lutreze_jacinto's Instagram link" /></a>
     <a href="https://x.com/jlutrezehue"><img src="https://img.shields.io/badge/jlutrezehue-%23000000.svg?style=flat&logo=X&logoColor=white" alt="jlutrezehue's X link" /></a>
     <a href="https://www.leetcode.com/jacintolutrezehue"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="jacintolutrezehue's LeetCode link" /></a>
     <a href="https://www.hackerrank.com/profile/nocturnalDev11"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" alt="nocturnalDev11's Hackerrank link" /></a>
