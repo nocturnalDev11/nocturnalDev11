@@ -65,6 +65,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" title="C"/>
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo" title="C#"/>
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo" title="TypeScript" />
