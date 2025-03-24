@@ -71,8 +71,6 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo" title="TypeScript" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo" title="Java" />
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
