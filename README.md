@@ -85,7 +85,13 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo" title="Tailwind Css" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=express" height="45" alt="expressjs logo" title="ExpressJS" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="reactjs logo" title="ReactJS" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=next" height="45" alt="nextjs logo" title="NextJS" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
     <img width="10" />
@@ -122,6 +128,8 @@
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo" title="MongoDB" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=ps" height="45" alt="photoshop logo" title="Photoshop" />
     <img width="10" />
