@@ -127,6 +127,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo" title="Figma" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo" title="Vercel"/>
+    <img width="10" />
 </div>
 
 ### GitHub Stats 
