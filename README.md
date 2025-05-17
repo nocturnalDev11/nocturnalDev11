@@ -85,8 +85,6 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="expressjs logo" title="ExpressJS" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=alpinejs" height="45" alt="alpinejs logo" title="AlpineJS" />
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=react" height="45" alt="reactjs logo" title="ReactJS" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=next" height="45" alt="nextjs logo" title="NextJS" />
