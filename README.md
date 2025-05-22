@@ -13,45 +13,6 @@
     />
 </div>
 
-<details>
-    <summary>
-        <h3> About me (Click to expand)</h3>
-    </summary>
-
-```PHP
-@php
-    $introduction = [
-        "name" => "Lutreze Hue Jacinto",
-        "current_year" => "4th-year",
-        "course" => "Information Technology",
-        "role" => "Student Developer",
-        "skills" => ["HTML", "CSS", "JavaScript", "MySQL", "PHP"],
-        "frameworks_i_used" => ["Tailwind", "Laravel"],
-        "software_skills" => ["Photoshop", "Adobe Illustrator", "Adobe Lightroom", "Figma"],
-        "future_learning_goals" => "MERN stack"
-    ];
-
-    $skills_list = array_map(fn($skill) => $skill === "CSS" ? "$skill (including Tailwind)" : $skill, $introduction['skills']);
-    $frameworks_list = implode(', ', $introduction['frameworks_i_used']);
-@endphp
-
-<div>
-    <p>
-        Hello! My name is {{ $introduction['name'] }}. I'm a {{ $introduction['current_year'] }} 
-        {{ $introduction['course'] }} student and a self-taught web developer with experience in PHP 
-        frameworks, including {{ in_array('Laravel', $introduction['frameworks_i_used']) ? 'Laravel' : 'other frameworks' }}.
-        I'm constantly learning and expanding my skillset, which currently includes {{ implode(', ', $skills_list) }}.
-    </p>
-    
-    <p>
-        In addition to web development, I'm passionate about design and enjoy using tools like 
-        {{ implode(', ', $introduction['software_skills']) }}. I'm also eager to learn the 
-        {{ $introduction['future_learning_goals'] }} and delve into it in the near future.
-    </p>
-</div>
-```
-</details>
-
 ### Languages, Frameworks, Tools and IDE's
 
 ***PS: I'm continuously learning my skills in various languages and tools, including design software and frameworks.***
@@ -62,8 +23,6 @@
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo" title="CSS"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo" title="JavaScript"/>
-    <img width="10" />
-    <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo" title="C"/>
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo" title="C#"/>
     <img width="10" />
