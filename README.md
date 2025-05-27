@@ -80,6 +80,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" title="Linux" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
