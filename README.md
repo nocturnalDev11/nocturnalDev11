@@ -74,9 +74,9 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo" title="Git" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" title="Bash" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora" height="45" alt="fedora logo" title="Fedora"/>
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="ubuntu logo" title="Ubuntu" />
+    <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo" title="Bash" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="powershell logo" title="Powershell" />
     <img width="10" />
