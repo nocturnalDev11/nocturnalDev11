@@ -26,15 +26,7 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo" title="C#"/>
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo" title="C++" />
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo" title="TypeScript" />
-    <img width="10" />
-    <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo" title="Python" />
-    <img width="10" />
-    <img src="https://skillicons.dev/icons?i=dart" height="45" alt="dart logo" title="Dart" />
-    <img width="10" />
-    <img src="https://skillicons.dev/icons?i=gradle" height="45" alt="gradle logo" title="Gradle" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
     <img width="10" />
@@ -58,11 +50,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo" title="Flutter" />
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="androidstudio logo" title="Android Studio" />
     <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" height="45" alt="wsl logo" title="WSL"/>
     <img width="10" />
