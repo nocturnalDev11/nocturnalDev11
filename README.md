@@ -26,6 +26,8 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=cs" height="45" alt="c# logo" title="C#"/>
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo" title=".NET" />
+    <img width="10" />
     <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="typescript logo" title="TypeScript" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" title="PHP" />
@@ -50,8 +52,9 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo" title="Vite" />
     <img width="10" />
-    <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" title="Node JS"/>
     <img width="10" />
+    <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm logo" title="npm" />
     <img width="10" />
     <img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" height="45" alt="wsl logo" title="WSL"/>
     <img width="10" />
@@ -72,6 +75,8 @@
     <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo" title="Linux" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo" title="MySQL" />
+    <img width="10" />
+    <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo" title="Supabase" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="firebase logo" title="Firebase" />
     <img width="10" />
