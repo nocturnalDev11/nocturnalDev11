@@ -103,7 +103,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nocturnalDev11&theme=material_palenight&utcOffset=+6.5" width="49%" height="auto" style="display: inline;" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/nocturnalDev11/nocturnalDev11/output/snake.svg" alt="snakeAnimation" width="100%" height="90%" />
-</div> -->
-
+</div>
