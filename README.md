@@ -44,8 +44,6 @@
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="laravel logo" title="Laravel" />
     <img width="10" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=livewire" height="45" alt="livewire logo" title="Livewire"/>
-    <img width="10" />
     <img src="https://skillicons.dev/icons?i=vue" height="45" alt="vue logo" title="Vue JS" />
     <img width="10" />
     <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo" title="Postman" />
